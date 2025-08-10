@@ -1,0 +1,24 @@
+info.json
+{
+  "name": "CASANDRA",
+  "symbol": "CASA",
+  "decimals": 18,
+  "explorer": "https://bscscan.com/token/0xc0a9c4ec78a59ada586d499baef455a3b910be5a",
+  "logoURI": "https://raw.githubusercontent.com/tvaradze1994/assets/master/blockchains/binance/assets/0xc0a9c4ec78a59ada586d499baef455a3b910be5a/logo.png",
+  "tags": ["token", "BEP20"],
+  "extensions": {
+    "telegram": "https://t.me
+  }
+{
+  "name": "CASANDRA",
+  "symbol": "CASA",
+  "decimals": 18,
+  "explorer": "https://bscscan.com/token/0xc0a9c4ec78a59ada586d499baef455a3b910be5a",
+  "logoURI": "https://raw.githubusercontent.com/tvaradze1994/assets/master/blockchains/binance/assets/0xc0a9c4ec78a59ada586d499baef455a3b910be5a/logo.png",
+  "tags": ["token", "BEP20"],
+  "extensions": {
+    "telegram": "https://t.me/David113355"
+  }
+}
+BEP-20 Token | Address: 0xc0a9c4ec...3b910be5a | BscScan
+Token Rep: Unknown | Holders: 2 | As at Aug-10-2025 08:11:05 PM (UTC
